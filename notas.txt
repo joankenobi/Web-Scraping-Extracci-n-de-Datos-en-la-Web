@@ -1,4 +1,5 @@
 Nombre del curso: Curso de Web Scraping: Extracción de Datos en la Web
 Link: https://platzi.com/cursos/webscraping/
 notas en telegraph: https://telegra.ph/Curso-de-Web-Scraping-Extracci%C3%B3n-de-Datos-en-la-Web-03-18
-Activar enviroment: $ venv\Scripts\activate  
+Activar enviroment: $ venv\Scripts\activate
+notas de alguien más: https://github.com/rb-one/webscraping_by_platzi/blob/master/Notes/notes.md
