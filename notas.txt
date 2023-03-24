@@ -3,3 +3,6 @@ Link: https://platzi.com/cursos/webscraping/
 notas en telegraph: https://telegra.ph/Curso-de-Web-Scraping-Extracci%C3%B3n-de-Datos-en-la-Web-03-18
 Activar enviroment: $ venv\Scripts\activate
 notas de alguien más: https://github.com/rb-one/webscraping_by_platzi/blob/master/Notes/notes.md
+guia para xpath: http://www.stylusstudio.com/docs/v62/d_xpath6.html#wp334863
+extencion de chrome para obtener de forma secilla los xpath: https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=es
+Colab con metodologia para Scraping: https://colab.research.google.com/drive/1IJkrGemtYNnUo1Ioxr4LI_74Z1T9_eSP#scrollTo=sWgFs2hTauCi
